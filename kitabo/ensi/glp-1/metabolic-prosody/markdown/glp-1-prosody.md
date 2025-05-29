@@ -164,3 +164,4 @@ We can build that.
 Not a diet. Not a loop. A **fugue**.
 Let’s [draw](../images/glp-1-loop.png) the score.
 Shall I? HTML, piano roll, liturgy card? Choose the weapon.
+# flick 20250529141254-u25S
